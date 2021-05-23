@@ -2,9 +2,10 @@
 
 # dependencies
 /.idea
+/gatsby/.idea
+/sanity/.idea
 /sanity/node_modules
 /gatsby/node_modules
-/gatsby/public/*
 /gatsby/.cache
 /.pnp
 .pnp.js
@@ -37,4 +38,3 @@ yarn-error.log*
 /gatsby/.cache/
 /gatsby/.netlify
 /gatsby/.Rhistory
-
